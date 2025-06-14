@@ -1,7 +1,3 @@
-# HDCSE-_OOP_48_zeenath
-ICBT Southern campus student
-
-
 import  java.util.Scanner;
 public class Main {
   public static void main(String[] args) {
